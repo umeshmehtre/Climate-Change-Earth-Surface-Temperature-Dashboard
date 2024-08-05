@@ -33,9 +33,6 @@ climate-change-dashboard/
 ├── powerbi/
 │   └── climate_change_dashboard.pbix
 │
-├── scripts/
-│   └── data_preprocessing.py
-│
 ├── docs/
 │   └── technical_report.pdf
 │
