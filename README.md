@@ -1,4 +1,4 @@
-# Climate Change: Earth Surface Temperature Dashboard
+# Climate Change: Earth Surface Temperature Dashboard uisng Power BI
 
 ## Project Overview
 
@@ -20,30 +20,6 @@ The project utilizes a comprehensive dataset of global surface temperatures, ini
 
 - Power BI: For creating interactive visualizations and dashboard layout
 - Python: For data preprocessing and additional analysis
-
-## Project Structure
-
-```
-climate-change-dashboard/
-│
-├── data/
-│   ├── raw_data.csv
-│   └── processed_data.csv
-│
-├── powerbi/
-│   └── climate_change_dashboard.pbix
-│
-├── docs/
-│   └── technical_report.pdf
-│
-└── README.md
-```
-
-## Installation and Usage
-
-1. Clone this repository
-2. Open the `climate_change_dashboard.pbix` file in Power BI Desktop
-3. (Optional) Run `data_preprocessing.py` if you want to update or modify the dataset
 
 ## Key Insights
 
